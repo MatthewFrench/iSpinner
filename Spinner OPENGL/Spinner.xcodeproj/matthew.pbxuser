@@ -1,0 +1,313 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SpinnerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1098, 480}}";
+			sepNavSelRange = "{491, 0}";
+			sepNavVisRange = "{0, 738}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SpinnerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{433, 147}\";\n            s = 0;\n        },\n                {\n            r = \"{615, 171}\";\n            s = 0;\n        },\n                {\n            r = \"{1422, 446}\";\n            s = 0;\n        },\n                {\n            r = \"{1940, 351}\";\n            s = 0;\n        },\n                {\n            r = \"{2364, 165}\";\n            s = 0;\n        },\n                {\n            r = \"{2598, 205}\";\n            s = 0;\n        },\n                {\n            r = \"{2870, 118}\";\n            s = 0;\n        },\n                {\n            r = \"{3112, 140}\";\n            s = 0;\n        },\n                {\n            r = \"{3273, 74}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 3356}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1084, 754}}";
+			sepNavSelRange = "{396, 0}";
+			sepNavVisRange = "{0, 1257}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Spinner */ = {
+		activeExec = 0;
+		executables = (
+			34D273CB120B618D00D54465 /* Spinner */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SpinnerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1098, 480}}";
+			sepNavSelRange = "{228, 0}";
+			sepNavVisRange = "{0, 238}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SpinnerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1098, 832}}";
+			sepNavSelRange = "{818, 0}";
+			sepNavVisRange = "{0, 820}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 34D273CB120B618D00D54465 /* Spinner */;
+		activeSDKPreference = iphoneos4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Spinner */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Spinner */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 34D273E4120B619600D54465 /* Code sense */;
+		executables = (
+			34D273CB120B618D00D54465 /* Spinner */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					906,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					880,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308362916;
+			PBXWorkspaceStateSaveDate = 308362916;
+		};
+		perUserProjectItems = {
+			340985E3120F509400E4816F /* PBXBookmark */ = 340985E3120F509400E4816F /* PBXBookmark */;
+			3409877612102AA000E4816F /* PBXBookmark */ = 3409877612102AA000E4816F /* PBXBookmark */;
+			34324CD41212101C00357695 /* PBXBookmark */ = 34324CD41212101C00357695 /* PBXBookmark */;
+			3469A7E212615B9700D83564 /* PBXTextBookmark */ = 3469A7E212615B9700D83564 /* PBXTextBookmark */;
+			3469A7E312615B9700D83564 /* PBXTextBookmark */ = 3469A7E312615B9700D83564 /* PBXTextBookmark */;
+			3469A7E412615B9700D83564 /* PBXTextBookmark */ = 3469A7E412615B9700D83564 /* PBXTextBookmark */;
+			347CC5C112613E9B0050D28C /* PlistBookmark */ = 347CC5C112613E9B0050D28C /* PlistBookmark */;
+			347CC5C212613E9B0050D28C /* PBXTextBookmark */ = 347CC5C212613E9B0050D28C /* PBXTextBookmark */;
+			347CC5C312613E9B0050D28C /* PBXTextBookmark */ = 347CC5C312613E9B0050D28C /* PBXTextBookmark */;
+			347CC5C412613E9B0050D28C /* PBXTextBookmark */ = 347CC5C412613E9B0050D28C /* PBXTextBookmark */;
+			347CC5C512613E9B0050D28C /* PBXTextBookmark */ = 347CC5C512613E9B0050D28C /* PBXTextBookmark */;
+			347CC5C612613E9B0050D28C /* PBXTextBookmark */ = 347CC5C612613E9B0050D28C /* PBXTextBookmark */;
+			347CC5C712613E9B0050D28C /* PBXTextBookmark */ = 347CC5C712613E9B0050D28C /* PBXTextBookmark */;
+			34CBF4701215B19E00920091 /* PBXBookmark */ = 34CBF4701215B19E00920091 /* PBXBookmark */;
+		};
+		sourceControlManager = 34D273E3120B619600D54465 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	340985E3120F509400E4816F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 340985B7120F4F3200E4816F /* Arrow Left.png */;
+	};
+	3409877612102AA000E4816F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 340987411210281F00E4816F /* arrow.png */;
+	};
+	34324CD41212101C00357695 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 340985B6120F4F3200E4816F /* Arrow Right.png */;
+	};
+	3469A7E212615B9700D83564 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpinnerAppDelegate.m */;
+		name = "SpinnerAppDelegate.m: 17";
+		rLen = 0;
+		rLoc = 396;
+		rType = 0;
+		vrLen = 2532;
+		vrLoc = 0;
+	};
+	3469A7E312615B9700D83564 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 347CC4E112613AE60050D28C /* Spinner.m */;
+		name = "Spinner.m: 151";
+		rLen = 0;
+		rLoc = 5548;
+		rType = 0;
+		vrLen = 1932;
+		vrLoc = 4804;
+	};
+	3469A7E412615B9700D83564 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 347CC4E112613AE60050D28C /* Spinner.m */;
+		name = "Spinner.m: 148";
+		rLen = 0;
+		rLoc = 5026;
+		rType = 0;
+		vrLen = 4203;
+		vrLoc = 2074;
+	};
+	347CC4E012613AE60050D28C /* Spinner.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1098, 741}}";
+			sepNavSelRange = "{168, 0}";
+			sepNavVisRange = "{0, 710}";
+			sepNavWindowFrame = "{{15, 111}, {793, 762}}";
+		};
+	};
+	347CC4E112613AE60050D28C /* Spinner.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{2164, 2379}\";\n            s = 0;\n        },\n                {\n            r = \"{7013, 414}\";\n            s = 0;\n        },\n                {\n            r = \"{7493, 682}\";\n            s = 0;\n        },\n                {\n            r = \"{8243, 671}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 14361}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 4030}}";
+			sepNavSelRange = "{2648, 0}";
+			sepNavVisRange = "{2074, 1825}";
+		};
+	};
+	347CC4EA12613B260050D28C /* Image.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1084, 1859}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1776}";
+		};
+	};
+	347CC4EB12613B260050D28C /* Image.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1251, 5577}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{10826, 1894}";
+		};
+	};
+	347CC5C112613E9B0050D28C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Spinner-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/matthew/Desktop/My Code Sources/Spinner/Spinner-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	347CC5C212613E9B0050D28C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SpinnerViewController.h */;
+		name = "SpinnerViewController.h: 11";
+		rLen = 0;
+		rLoc = 228;
+		rType = 0;
+		vrLen = 238;
+		vrLoc = 0;
+	};
+	347CC5C312613E9B0050D28C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SpinnerViewController.m */;
+		name = "SpinnerViewController.m: 36";
+		rLen = 0;
+		rLoc = 818;
+		rType = 0;
+		vrLen = 820;
+		vrLoc = 0;
+	};
+	347CC5C412613E9B0050D28C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SpinnerAppDelegate.h */;
+		name = "SpinnerAppDelegate.h: 24";
+		rLen = 0;
+		rLoc = 491;
+		rType = 0;
+		vrLen = 738;
+		vrLoc = 0;
+	};
+	347CC5C512613E9B0050D28C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 347CC4E012613AE60050D28C /* Spinner.h */;
+		name = "Spinner.h: 8";
+		rLen = 0;
+		rLoc = 168;
+		rType = 0;
+		vrLen = 710;
+		vrLoc = 0;
+	};
+	347CC5C612613E9B0050D28C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 347CC4EA12613B260050D28C /* Image.h */;
+		name = "Image.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1776;
+		vrLoc = 0;
+	};
+	347CC5C712613E9B0050D28C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 347CC4EB12613B260050D28C /* Image.m */;
+		name = "Image.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1894;
+		vrLoc = 10826;
+	};
+	34CBF4701215B19E00920091 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 34324C8F12120DB000357695 /* Icon.png */;
+	};
+	34D273CB120B618D00D54465 /* Spinner */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Spinner;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	34D273E3120B619600D54465 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	34D273E4120B619600D54465 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

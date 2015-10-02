@@ -1,0 +1,313 @@
+TSpinner
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C6591150000000000000110
+t1281724693
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004C5B401F00000000000001E5
+t1281048607
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C296E2A00000000000009CD
+t1277783594
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C296F120000000002D563E0
+t1277783826
+s47539168
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/Arrow Left.png
+c000000004C61D7EC0000000000000F23
+t1281480684
+s3875
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/Arrow Right.png
+c000000004C61D7DE0000000000000F21
+t1281480670
+s3873
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/Classes/Spinner.h
+c000000004C7D4CA1000000000000022A
+t1283280033
+s554
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/Classes/Spinner.m
+c000000004C7D4CC8000000000000195A
+t1283280072
+s6490
+i"Spinner.h"
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerAppDelegate.h
+c000000004C61AE9400000000000002B1
+t1281470100
+s689
+i<UIKit/UIKit.h>
+i"Spinner.h"
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerAppDelegate.m
+c000000004C7D4BB70000000000000C64
+t1283279799
+s3172
+i"SpinnerAppDelegate.h"
+i"SpinnerViewController.h"
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerViewController.h
+c000000004C61D88700000000000000EE
+t1281480839
+s238
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerViewController.m
+c000000004C5F1A980000000000000580
+t1281301144
+s1408
+i"SpinnerViewController.h"
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/Icon.png
+c000000004C6579720000000000002B24
+t1281718642
+s11044
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/MainWindow.xib
+c000000004C61AEDD0000000000008DAB
+t1281470173
+s36267
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/Spinner_Prefix.pch
+c000000004C5B2A0D00000000000000B7
+t1281042957
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/arrow.png
+c000000004C5FF2360000000000001ACC
+t1281356342
+s6860
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app.dSYM
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app/Arrow Left.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app/Arrow Right.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app/Icon.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app/Info.plist
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app/MainWindow.nib
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app/PkgInfo
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app/ResourceRules.plist
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app/arrow.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app/iSpin Selector
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphoneos/Spinner.build/Objects-normal/armv6/Spinner.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphoneos/Spinner.build/Objects-normal/armv6/SpinnerAppDelegate.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphoneos/Spinner.build/Objects-normal/armv6/SpinnerViewController.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphoneos/Spinner.build/Objects-normal/armv6/iSpin Selector
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphoneos/Spinner.build/Objects-normal/armv6/iSpin Selector.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphoneos/Spinner.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphoneos/Spinner.build/Objects-normal/armv7/Spinner.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphoneos/Spinner.build/Objects-normal/armv7/SpinnerAppDelegate.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphoneos/Spinner.build/Objects-normal/armv7/SpinnerViewController.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphoneos/Spinner.build/Objects-normal/armv7/iSpin Selector
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphoneos/Spinner.build/Objects-normal/armv7/iSpin Selector.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphoneos/Spinner.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphoneos/Spinner.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/main.m
+c000000004C5B2A0D000000000000016A
+t1281042957
+s362
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Library/MobileDevice/Provisioning Profiles/D634125C-FB15-424B-BD03-DFEF75845B69.mobileprovision
+c000000004C5980310000000000001BFF
+t1280933937
+s7167
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spinner_Prefix-clrbptmqflevqlgxgkcnuphmljtn/Spinner_Prefix.pch.gch
+t1281718599
+s9651760
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spinner_Prefix-eifqsvzjqyedtseqmwczngaejmij/Spinner_Prefix.pch.gch
+t1281718599
+s10110512
+
+NSpinner-Info.plist
+c000000004C6579F900000000000003DC
+t1281718777
+s988
+
+CCodeSign "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app"
+r0
+
+CCompileC build/Spinner.build/Release-iphoneos/Spinner.build/Objects-normal/armv6/Spinner.o "/Users/matthew/Desktop/My Code Sources/Spinner/Classes/Spinner.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Spinner.build/Release-iphoneos/Spinner.build/Objects-normal/armv6/SpinnerAppDelegate.o "/Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Spinner.build/Release-iphoneos/Spinner.build/Objects-normal/armv6/SpinnerViewController.o "/Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Spinner.build/Release-iphoneos/Spinner.build/Objects-normal/armv6/main.o "/Users/matthew/Desktop/My Code Sources/Spinner/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Spinner.build/Release-iphoneos/Spinner.build/Objects-normal/armv7/Spinner.o "/Users/matthew/Desktop/My Code Sources/Spinner/Classes/Spinner.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Spinner.build/Release-iphoneos/Spinner.build/Objects-normal/armv7/SpinnerAppDelegate.o "/Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Spinner.build/Release-iphoneos/Spinner.build/Objects-normal/armv7/SpinnerViewController.o "/Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Spinner.build/Release-iphoneos/Spinner.build/Objects-normal/armv7/main.o "/Users/matthew/Desktop/My Code Sources/Spinner/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/matthew/Desktop/My Code Sources/Spinner/MainWindow.xib"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app/Arrow Left.png" "Arrow Left.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app/Arrow Right.png" "Arrow Right.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app/Icon.png" Icon.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app/arrow.png" arrow.png
+r0
+
+CCpResource "build/Release-iphoneos/iSpin Selector.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app/iSpin Selector" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app.dSYM" "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app/iSpin Selector"
+r0
+
+CLd "/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphoneos/Spinner.build/Objects-normal/armv6/iSpin Selector" normal armv6
+r0
+
+CLd "/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphoneos/Spinner.build/Objects-normal/armv7/iSpin Selector" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app/Info.plist" Spinner-Info.plist
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spinner_Prefix-clrbptmqflevqlgxgkcnuphmljtn/Spinner_Prefix.pch.gch Spinner_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spinner_Prefix-eifqsvzjqyedtseqmwczngaejmij/Spinner_Prefix.pch.gch Spinner_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/matthew/Library/MobileDevice/Provisioning Profiles/D634125C-FB15-424B-BD03-DFEF75845B69.mobileprovision" "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphoneos/Spinner.build/iSpin Selector.xcent"
+r0
+
+CTouch "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app"
+r0
+
+CValidate "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphoneos/iSpin Selector.app"
+r0
+

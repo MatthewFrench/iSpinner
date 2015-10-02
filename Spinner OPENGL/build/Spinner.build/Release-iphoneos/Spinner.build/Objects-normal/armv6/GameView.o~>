@@ -1,0 +1,101 @@
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:12: error: no declaration of property 'context' found in the interface
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m: In function '-[Spinner initWithCoder:]':
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:26: error: 'context' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:26: error: (Each undeclared identifier is reported only once
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:26: error: for each function it appears in.)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:37: warning: implicit declaration of function 'glMatrixMode'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:37: error: 'GL_PROJECTION' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:38: warning: implicit declaration of function 'glLoadIdentity'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:39: warning: implicit declaration of function 'glOrthof'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:40: warning: implicit declaration of function 'glViewport'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:42: error: 'GL_MODELVIEW' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:49: warning: implicit declaration of function 'glBlendFunc'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:49: error: 'GL_SRC_ALPHA' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:49: error: 'GL_ONE_MINUS_SRC_ALPHA' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:51: warning: implicit declaration of function 'glDisable'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:51: error: 'GL_DEPTH_TEST' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:52: warning: implicit declaration of function 'glTexEnvi'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:52: error: 'GL_TEXTURE_ENV' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:52: error: 'GL_TEXTURE_ENV_MODE' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:52: error: 'GL_BLEND_SRC' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:53: warning: implicit declaration of function 'glEnableClientState'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:53: error: 'GL_VERTEX_ARRAY' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:54: warning: implicit declaration of function 'glClearColor'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:58: error: 'screenDimensions' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m: In function '-[Spinner awakeFromNib]':
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:68: error: 'glArrow' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:68: error: 'Image' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m: In function '-[Spinner drawRect:]':
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:139: error: 'glPie' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:142: error: 'Image' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m: In function '-[Spinner renderScene]':
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:173: error: 'context' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:174: warning: implicit declaration of function 'glBindFramebufferOES'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:174: error: 'GL_FRAMEBUFFER_OES' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:174: error: 'viewFramebuffer' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:177: warning: implicit declaration of function 'glClear'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:177: error: 'GL_COLOR_BUFFER_BIT' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:182: warning: implicit declaration of function 'glBindRenderbufferOES'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:182: error: 'GL_RENDERBUFFER_OES' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:182: error: 'viewRenderbuffer' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m: At top level:
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:239: error: expected ')' before 'Image'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m: In function '-[Spinner drawImage:AtPoint:]':
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:241: error: request for member 'imageHeight' in something not a structure or union
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:241: warning: no '-renderAtPoint:centerOfImage:' method found
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:241: warning: (Messages without a matching method signature
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:241: warning: will be assumed to return 'id' and accept
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:241: warning: '...' as arguments.)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m: In function '-[Spinner drawRect:color:]':
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:281: error: 'GLfloat' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:281: error: expected ';' before 'squareVertices'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:288: error: 'GLubyte' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:288: error: expected ';' before 'squareColors'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:294: warning: implicit declaration of function 'glEnable'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:294: error: 'GL_BLEND' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:296: warning: implicit declaration of function 'glVertexPointer'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:296: error: 'GL_FLOAT' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:296: error: 'squareVertices' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:297: error: 'GL_VERTEX_ARRAY' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:298: warning: implicit declaration of function 'glColorPointer'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:298: error: 'GL_UNSIGNED_BYTE' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:298: error: 'squareColors' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:299: error: 'GL_COLOR_ARRAY' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:301: warning: implicit declaration of function 'glDrawArrays'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:301: error: 'GL_TRIANGLE_STRIP' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:303: warning: implicit declaration of function 'glDisableClientState'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m: In function '-[Spinner layoutSubviews]':
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:364: error: 'context' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:365: warning: 'Spinner' may not respond to '-destroyFramebuffer'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:366: warning: 'Spinner' may not respond to '-createFramebuffer'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m: In function '-[Spinner createFramebuffer]':
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:371: warning: implicit declaration of function 'glGenFramebuffersOES'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:371: error: 'viewFramebuffer' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:372: warning: implicit declaration of function 'glGenRenderbuffersOES'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:372: error: 'viewRenderbuffer' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:374: error: 'GL_FRAMEBUFFER_OES' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:375: error: 'GL_RENDERBUFFER_OES' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:377: error: 'context' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:378: warning: implicit declaration of function 'glFramebufferRenderbufferOES'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:378: error: 'GL_COLOR_ATTACHMENT0_OES' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:380: warning: implicit declaration of function 'glGetRenderbufferParameterivOES'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:380: error: 'GL_RENDERBUFFER_WIDTH_OES' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:380: error: 'backingWidth' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:381: error: 'GL_RENDERBUFFER_HEIGHT_OES' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:381: error: 'backingHeight' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:384: error: 'depthRenderbuffer' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:386: warning: implicit declaration of function 'glRenderbufferStorageOES'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:386: error: 'GL_DEPTH_COMPONENT16_OES' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:387: error: 'GL_DEPTH_ATTACHMENT_OES' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:390: warning: implicit declaration of function 'glCheckFramebufferStatusOES'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:390: error: 'GL_FRAMEBUFFER_COMPLETE_OES' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m: In function '-[Spinner destroyFramebuffer]':
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:399: warning: implicit declaration of function 'glDeleteFramebuffersOES'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:399: error: 'viewFramebuffer' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:401: warning: implicit declaration of function 'glDeleteRenderbuffersOES'
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:401: error: 'viewRenderbuffer' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:404: error: 'depthRenderbuffer' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m: In function '-[Spinner dealloc]':
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:415: error: 'context' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:422: error: 'glPie' undeclared (first use in this function)
+/Users/matthew/Desktop/My Code Sources/Spinner/Classes/GameView.m:426: error: 'glArrow' undeclared (first use in this function)

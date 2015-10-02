@@ -1,0 +1,346 @@
+TSpinner
+v7
+r0
+t306552532.576228
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/Info.plist" Spinner-Info.plist
+cCompileXIB "/Users/matthew/Desktop/My Code Sources/Spinner/MainWindow.xib"
+cCpResource "build/Release-iphonesimulator/iSpin Selector.app/Arrow Right.png" "Arrow Right.png"
+cCpResource "build/Release-iphonesimulator/iSpin Selector.app/Arrow Left.png" "Arrow Left.png"
+cCpResource "build/Release-iphonesimulator/iSpin Selector.app/arrow.png" arrow.png
+cCpResource "build/Release-iphonesimulator/iSpin Selector.app/Icon.png" Icon.png
+cProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spinner_Prefix-gvkrruopcsupxvebolufyqujevqy/Spinner_Prefix.pch.gch Spinner_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Spinner.build/Release-iphonesimulator/Spinner.build/Objects-normal/i386/main.o "/Users/matthew/Desktop/My Code Sources/Spinner/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Spinner.build/Release-iphonesimulator/Spinner.build/Objects-normal/i386/SpinnerAppDelegate.o "/Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Spinner.build/Release-iphonesimulator/Spinner.build/Objects-normal/i386/SpinnerViewController.o "/Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Spinner.build/Release-iphonesimulator/Spinner.build/Objects-normal/i386/Spinner.o "/Users/matthew/Desktop/My Code Sources/Spinner/Classes/Spinner.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/iSpin Selector" normal i386
+cGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app.dSYM" "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/iSpin Selector"
+cTouch "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C65912D0000000000000132
+t1281724717
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/Arrow Left.png
+c000000004C61D7EC0000000000000F23
+t1281480684
+s3875
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/Arrow Right.png
+c000000004C61D7DE0000000000000F21
+t1281480670
+s3873
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/Classes/Spinner.h
+c000000004C7D4CA1000000000000022A
+t1283280033
+s554
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/Classes/Spinner.m
+c000000004C7D4CC8000000000000195A
+t1283280072
+s6490
+i"Spinner.h"
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerAppDelegate.h
+c000000004C61AE9400000000000002B1
+t1281470100
+s689
+i<UIKit/UIKit.h>
+i"Spinner.h"
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerAppDelegate.m
+c000000004C7D4BB70000000000000C64
+t1283279799
+s3172
+i"SpinnerAppDelegate.h"
+i"SpinnerViewController.h"
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerViewController.h
+c000000004C61D88700000000000000EE
+t1281480839
+s238
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerViewController.m
+c000000004C5F1A980000000000000580
+t1281301144
+s1408
+i"SpinnerViewController.h"
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/Icon.png
+c000000004C6579720000000000002B24
+t1281718642
+s11044
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/MainWindow.xib
+c000000004C61AEDD0000000000008DAB
+t1281470173
+s36267
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/Spinner_Prefix.pch
+c000000004C5B2A0D00000000000000B7
+t1281042957
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/arrow.png
+c000000004C5FF2360000000000001ACC
+t1281356342
+s6860
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app
+t1284859732
+s340
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app.dSYM
+t1284859732
+s102
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/Arrow Left.png
+t1284859724
+s3875
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/Arrow Right.png
+t1284859724
+s3873
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/Icon.png
+t1284859724
+s11044
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/Info.plist
+t1284859724
+s682
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/MainWindow.nib
+t1284859727
+s5656
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/PkgInfo
+t1284859724
+s8
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/arrow.png
+t1284859724
+s6860
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/iSpin Selector
+t1284859732
+s27604
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/Objects-normal/i386/Spinner.o
+t1284859731
+s49184
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/Objects-normal/i386/SpinnerAppDelegate.o
+t1284859731
+s52216
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/Objects-normal/i386/SpinnerViewController.o
+t1284859731
+s34856
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/Objects-normal/i386/iSpin Selector.LinkFileList
+c000000004C95674C0000000000000232
+t1284859724
+s562
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/Objects-normal/i386/main.o
+t1284859731
+s6304
+
+N/Users/matthew/Desktop/My Code Sources/Spinner/main.m
+c000000004C5B2A0D000000000000016A
+t1281042957
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spinner_Prefix-gvkrruopcsupxvebolufyqujevqy/Spinner_Prefix.pch.gch
+t1284859730
+s14896144
+
+NSpinner-Info.plist
+c000000004C6579F900000000000003DC
+t1281718777
+s988
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306552522#306552524#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Spinner.build/Release-iphonesimulator/Spinner.build/Objects-normal/i386/Spinner.o "/Users/matthew/Desktop/My Code Sources/Spinner/Classes/Spinner.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s306552531.303296
+e306552531.867176
+r1
+xCompileC
+xbuild/Spinner.build/Release-iphonesimulator/Spinner.build/Objects-normal/i386/Spinner.o
+x/Users/matthew/Desktop/My Code Sources/Spinner/Classes/Spinner.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/matthew/Desktop/My Code Sources/Spinner/Classes/Spinner.m306552531#306552531#0(0"0(0#0#64"/Users/matthew/Desktop/My Code Sources/Spinner/Classes/Spinner.m8603843200#2112"    cd "/Users/matthew/Desktop/My Code Sources/Spinner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/iSpin Selector-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/iSpin Selector-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/iSpin Selector-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/iSpin Selector-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spinner_Prefix-gvkrruopcsupxvebolufyqujevqy/Spinner_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Spinner/Classes/Spinner.m" -o "/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/Objects-normal/i386/Spinner.o"0#
+
+CCompileC build/Spinner.build/Release-iphonesimulator/Spinner.build/Objects-normal/i386/SpinnerAppDelegate.o "/Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s306552530.966597
+e306552531.303165
+r1
+xCompileC
+xbuild/Spinner.build/Release-iphonesimulator/Spinner.build/Objects-normal/i386/SpinnerAppDelegate.o
+x/Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerAppDelegate.m306552530#306552531#0(0"0(0#0#75"/Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerAppDelegate.m8601064096#2134"    cd "/Users/matthew/Desktop/My Code Sources/Spinner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/iSpin Selector-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/iSpin Selector-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/iSpin Selector-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/iSpin Selector-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spinner_Prefix-gvkrruopcsupxvebolufyqujevqy/Spinner_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerAppDelegate.m" -o "/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/Objects-normal/i386/SpinnerAppDelegate.o"0#
+
+CCompileC build/Spinner.build/Release-iphonesimulator/Spinner.build/Objects-normal/i386/SpinnerViewController.o "/Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s306552531.295306
+e306552531.848259
+r1
+xCompileC
+xbuild/Spinner.build/Release-iphonesimulator/Spinner.build/Objects-normal/i386/SpinnerViewController.o
+x/Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerViewController.m306552531#306552531#0(0"0(0#0#78"/Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerViewController.m8603788992#2140"    cd "/Users/matthew/Desktop/My Code Sources/Spinner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/iSpin Selector-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/iSpin Selector-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/iSpin Selector-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/iSpin Selector-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spinner_Prefix-gvkrruopcsupxvebolufyqujevqy/Spinner_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Spinner/Classes/SpinnerViewController.m" -o "/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/Objects-normal/i386/SpinnerViewController.o"0#
+
+CCompileC build/Spinner.build/Release-iphonesimulator/Spinner.build/Objects-normal/i386/main.o "/Users/matthew/Desktop/My Code Sources/Spinner/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s306552530.964364
+e306552531.295169
+r1
+xCompileC
+xbuild/Spinner.build/Release-iphonesimulator/Spinner.build/Objects-normal/i386/main.o
+x/Users/matthew/Desktop/My Code Sources/Spinner/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/matthew/Desktop/My Code Sources/Spinner/main.m306552530#306552531#0(0"0(0#0#53"/Users/matthew/Desktop/My Code Sources/Spinner/main.m8602154016#2098"    cd "/Users/matthew/Desktop/My Code Sources/Spinner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/iSpin Selector-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/iSpin Selector-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/iSpin Selector-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/iSpin Selector-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spinner_Prefix-gvkrruopcsupxvebolufyqujevqy/Spinner_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Spinner/main.m" -o "/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/matthew/Desktop/My Code Sources/Spinner/MainWindow.xib"
+s306552524.743036
+e306552527.641710
+r1
+xCompileXIB
+x/Users/matthew/Desktop/My Code Sources/Spinner/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib306552524#306552527#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#61"/Users/matthew/Desktop/My Code Sources/Spinner/MainWindow.xib8601208064#609"    cd "/Users/matthew/Desktop/My Code Sources/Spinner"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/MainWindow.nib" "/Users/matthew/Desktop/My Code Sources/Spinner/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource "build/Release-iphonesimulator/iSpin Selector.app/Arrow Left.png" "Arrow Left.png"
+s306552524.794510
+e306552524.885176
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSpin Selector.app/Arrow Left.png
+xArrow Left.png
+lSLF07#2@19"Copy Arrow Left.png306552524#306552524#0(0"0(0#0#61"/Users/matthew/Desktop/My Code Sources/Spinner/Arrow Left.png8604312320#518"    cd "/Users/matthew/Desktop/My Code Sources/Spinner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Spinner/Arrow Left.png" "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app"0#
+
+CCpResource "build/Release-iphonesimulator/iSpin Selector.app/Arrow Right.png" "Arrow Right.png"
+s306552524.793105
+e306552524.884817
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSpin Selector.app/Arrow Right.png
+xArrow Right.png
+lSLF07#2@20"Copy Arrow Right.png306552524#306552524#0(0"0(0#0#62"/Users/matthew/Desktop/My Code Sources/Spinner/Arrow Right.png8606767264#519"    cd "/Users/matthew/Desktop/My Code Sources/Spinner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Spinner/Arrow Right.png" "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app"0#
+
+CCpResource "build/Release-iphonesimulator/iSpin Selector.app/Icon.png" Icon.png
+s306552524.798674
+e306552524.860742
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSpin Selector.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png306552524#306552524#0(0"0(0#0#55"/Users/matthew/Desktop/My Code Sources/Spinner/Icon.png8604055072#512"    cd "/Users/matthew/Desktop/My Code Sources/Spinner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Spinner/Icon.png" "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app"0#
+
+CCpResource "build/Release-iphonesimulator/iSpin Selector.app/arrow.png" arrow.png
+s306552524.796570
+e306552524.871258
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iSpin Selector.app/arrow.png
+xarrow.png
+lSLF07#2@14"Copy arrow.png306552524#306552524#0(0"0(0#0#56"/Users/matthew/Desktop/My Code Sources/Spinner/arrow.png8604107712#513"    cd "/Users/matthew/Desktop/My Code Sources/Spinner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Spinner/arrow.png" "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app"0#
+
+CGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app.dSYM" "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/iSpin Selector"
+s306552532.453893
+e306552532.538275
+r1
+xGenerateDSYMFile
+x/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app.dSYM
+x/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/iSpin Selector
+lSLF07#2@138"GenerateDSYMFile "build/Release-iphonesimulator/iSpin Selector.app.dSYM" "build/Release-iphonesimulator/iSpin Selector.app/iSpin Selector"306552532#306552532#0(0"0(0#0#110"/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/iSpin Selector8601040352#438"    cd "/Users/matthew/Desktop/My Code Sources/Spinner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/iSpin Selector" -o "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app.dSYM"0#
+
+CLd "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/iSpin Selector" normal i386
+s306552531.867299
+e306552532.453763
+r1
+xLd
+x/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/iSpin Selector
+xnormal
+xi386
+lSLF07#2@115"Link /Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/iSpin Selector306552531#306552532#0(0"0(0#0#0"8603841920#979"    cd "/Users/matthew/Desktop/My Code Sources/Spinner"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator" "-F/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator" -filelist "/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/Objects-normal/i386/iSpin Selector.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/iSpin Selector"0#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/Info.plist" Spinner-Info.plist
+s306552524.681480
+e306552524.742646
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/Info.plist
+xSpinner-Info.plist
+lSLF07#2@26"Process Spinner-Info.plist306552524#306552524#0(0"0(0#0#65"/Users/matthew/Desktop/My Code Sources/Spinner/Spinner-Info.plist8458375218529726464#527"    cd "/Users/matthew/Desktop/My Code Sources/Spinner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Spinner-Info.plist -genpkginfo "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app/Info.plist"0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spinner_Prefix-gvkrruopcsupxvebolufyqujevqy/Spinner_Prefix.pch.gch Spinner_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s306552527.642212
+e306552530.964050
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spinner_Prefix-gvkrruopcsupxvebolufyqujevqy/Spinner_Prefix.pch.gch
+xSpinner_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Spinner_Prefix.pch306552527#306552531#0(0"0(0#0#65"/Users/matthew/Desktop/My Code Sources/Spinner/Spinner_Prefix.pch8601167488#1978"    cd "/Users/matthew/Desktop/My Code Sources/Spinner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/iSpin Selector-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/iSpin Selector-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/iSpin Selector-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/iSpin Selector-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Spinner/build/Spinner.build/Release-iphonesimulator/Spinner.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -c "/Users/matthew/Desktop/My Code Sources/Spinner/Spinner_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spinner_Prefix-gvkrruopcsupxvebolufyqujevqy/Spinner_Prefix.pch.gch0#
+
+CTouch "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app"
+s306552532.538498
+e306552532.576157
+r1
+xTouch
+x/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app
+lSLF07#2@101"Touch /Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app306552532#306552532#0(0"0(0#0#0"8602203520#307"    cd "/Users/matthew/Desktop/My Code Sources/Spinner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/matthew/Desktop/My Code Sources/Spinner/build/Release-iphonesimulator/iSpin Selector.app"0#
+
